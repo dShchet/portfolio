@@ -29,7 +29,7 @@ const FaceCard = () => {
         <div className="right-column">
           <div className="about-wrapper">
             <div className="about-me">
-              <p>Специлизируюсь на верстке, многолетний опыт, могу верстать для React и Wordpress</p>
+              <p>Специлизируюсь на верстке, многолетний опыт, могу верстать для React, Vue и Wordpress</p>
               <p>Верстка по макету получается точная пиксель в пиксель</p>
               <ul>
                 <li>Адаптивность с Mobile First подходом</li>

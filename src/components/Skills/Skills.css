@@ -25,15 +25,19 @@
 	margin-right: 15px;
 	background-size: contain;
 	background-repeat: no-repeat;
+	background-position: center;
 }
 .skill__icon_HT{background-image: url(../../img/icon-HT.png);}
 .skill__icon_CS{background-image: url(../../img/icon-CS.png);}
+.skill__icon_Vu{background-image: url(../../img/icon-Vu.png);}
 .skill__icon_Ja{background-image: url(../../img/icon-Ja.png);}
 .skill__icon_ES{background-image: url(../../img/icon-ES.png);}
 .skill__icon_Re{background-image: url(../../img/icon-Re.png);}
 .skill__icon_Rd{background-image: url(../../img/icon-Rd.png);}
 .skill__icon_jQ{background-image: url(../../img/icon-jQ.png);}
 .skill__icon_Gt{background-image: url(../../img/icon-Gt.png);}
+.skill__icon_MS{background-image: url(../../img/icon-MS.png);}
+.skill__icon_PH{background-image: url(../../img/icon-PH.png);}
 .skill__score{    
 	float: right;
 	font-weight: 500;}
