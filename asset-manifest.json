@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.454cb76f.chunk.css",
+    "main.js": "/portfolio/static/js/main.36eb82a2.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.36eb82a2.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.bfc245ad.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.bfc245ad.js.map",
+    "static/css/2.20d0202e.chunk.css": "/portfolio/static/css/2.20d0202e.chunk.css",
+    "static/js/2.52db8cc9.chunk.js": "/portfolio/static/js/2.52db8cc9.chunk.js",
+    "static/js/2.52db8cc9.chunk.js.map": "/portfolio/static/js/2.52db8cc9.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.2df56fd5369c1b1a1bf3757ae0c17ee0.js": "/portfolio/precache-manifest.2df56fd5369c1b1a1bf3757ae0c17ee0.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.20d0202e.chunk.css.map": "/portfolio/static/css/2.20d0202e.chunk.css.map",
+    "static/css/main.454cb76f.chunk.css.map": "/portfolio/static/css/main.454cb76f.chunk.css.map",
+    "static/js/2.52db8cc9.chunk.js.LICENSE.txt": "/portfolio/static/js/2.52db8cc9.chunk.js.LICENSE.txt",
+    "static/media/FaceCard.css": "/portfolio/static/media/06.668c66c2.jpg",
+    "static/media/Projects.css": "/portfolio/static/media/sB_Group.fc5887ab.png",
+    "static/media/index.css": "/portfolio/static/media/russo-one-latin-ext-400-normal.126dd2ec.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bfc245ad.js",
+    "static/css/2.20d0202e.chunk.css",
+    "static/js/2.52db8cc9.chunk.js",
+    "static/css/main.454cb76f.chunk.css",
+    "static/js/main.36eb82a2.chunk.js"
+  ]
+}
