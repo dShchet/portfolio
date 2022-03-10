@@ -29,7 +29,7 @@ const FaceCard = () => {
         <div className="right-column">
           <div className="about-wrapper">
             <div className="about-me">
-              <p>Специлизируюсь на верстке, многолетний опыт, могу верстать для React, Vue и Wordpress</p>
+              <p>Специлизируюсь на верстке, многолетний опыт, верстаю для React, Vue и Wordpress</p>
               <p>Верстка по макету получается точная пиксель в пиксель</p>
               <ul>
                 <li>Адаптивность с Mobile First подходом</li>
@@ -38,7 +38,7 @@ const FaceCard = () => {
                 <li>Микроразметка Open Graph, Schema.org</li>
                 <li>CSS3 – Stylus, Sass/SCSS, Less</li>
                 <li>Grid Layout и Flexbox</li>
-                <li>JavaScript – библиотеки на JS/jQuery</li>
+                <li>React (Redux), Vue и Wordpress</li>
                 <li>Компонентный подход (сборка Gulp'ом)</li>
                 <li>Кроссбраузерность (тесты в BrowserStack)</li>
                 <li>Git-репозиторий (GitHub, BitBucket)</li>
